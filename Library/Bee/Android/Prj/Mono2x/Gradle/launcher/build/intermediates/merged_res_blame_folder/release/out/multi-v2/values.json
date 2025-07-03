@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.SefAR.launcher-mergeReleaseResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\UnityProjects\\SefAR\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,97",
+                        "endColumns": "40,65",
+                        "endOffsets": "93,160"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "802,845",
+                        "endColumns": "42,67",
+                        "endOffsets": "840,908"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kocse\\.gradle\\caches\\transforms-3\\eb10837eba75ce62ce08bf9f456f9973\\transformed\\jetified-VuforiaEngine\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "913",
+                        "endColumns": "79",
+                        "endOffsets": "988"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kocse\\.gradle\\caches\\transforms-3\\d5e017fbc646108d278d9d065862a3b2\\transformed\\jetified-core-1.36.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "356,407,462,588,714",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "402,457,583,709,797"
+                    }
+                },
+                {
+                    "source": "C:\\UnityProjects\\SefAR\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "16,18,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "993,1093,1231",
+                        "endLines": "17,20,24",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "1088,1226,1453"
+                    }
+                },
+                {
+                    "source": "C:\\UnityProjects\\SefAR\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "96,153,209,258,304,351"
+                    }
+                }
+            ]
+        }
+    ]
+}

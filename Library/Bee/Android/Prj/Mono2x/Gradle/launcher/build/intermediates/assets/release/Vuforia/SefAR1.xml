@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gamex" size="20.000000 27.906977" />
+    <ImageTarget name="witchit" size="20.000000 27.247957" />
+    <ImageTarget name="pubg" size="20.000000 27.906977" />
+    <ImageTarget name="fortnite" size="20.000000 28.248587" />
+    <ImageTarget name="uncharted" size="20.000000 28.301888" />
+    <ImageTarget name="destiny" size="20.000000 28.089888" />
+    <ImageTarget name="boss" size="20.000000 28.222013" />
+    <ImageTarget name="image01" size="7.500000 10.523854" />
+  </Tracking>
+</QCARConfig>

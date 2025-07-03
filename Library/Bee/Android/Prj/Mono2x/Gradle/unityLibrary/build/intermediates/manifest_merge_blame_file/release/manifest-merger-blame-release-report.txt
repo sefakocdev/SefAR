@@ -1,0 +1,147 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="23" />
+6-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+7
+8    <uses-feature android:glEsVersion="0x00030000" />
+8-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:3-52
+8-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-49
+9    <uses-feature
+9-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:3-91
+10        android:name="android.hardware.vulkan.version"
+10-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-63
+11        android:required="false" />
+11-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:64-88
+12
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:3-65
+13-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:20-62
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-63
+14-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:20-60
+15
+16    <uses-feature
+16-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-83
+17        android:name="android.hardware.camera"
+17-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-55
+18        android:required="false" />
+18-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:56-80
+19    <uses-feature
+19-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-93
+20        android:name="android.hardware.camera.autofocus"
+20-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:17-65
+21        android:required="false" />
+21-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:66-90
+22    <uses-feature
+22-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:3-89
+23        android:name="android.hardware.camera.front"
+23-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:17-61
+24        android:required="false" />
+24-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:62-86
+25    <uses-feature
+25-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:3-88
+26        android:name="android.hardware.touchscreen"
+26-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-60
+27        android:required="false" />
+27-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:61-85
+28    <uses-feature
+28-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-99
+29        android:name="android.hardware.touchscreen.multitouch"
+29-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-71
+30        android:required="false" />
+30-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:72-96
+31    <uses-feature
+31-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-108
+32        android:name="android.hardware.touchscreen.multitouch.distinct"
+32-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:17-80
+33        android:required="false" />
+33-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:81-105
+34
+35    <application android:extractNativeLibs="true" >
+35-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-18:17
+35-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+36        <activity
+36-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-11:16
+37            android:name="com.unity3d.player.UnityPlayerActivity"
+37-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+38            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+38-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:180-361
+39            android:exported="true"
+39-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:433-456
+40            android:hardwareAccelerated="false"
+40-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:397-432
+41            android:launchMode="singleTask"
+41-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:148-179
+42            android:resizeableActivity="false"
+42-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:362-396
+43            android:screenOrientation="fullUser"
+43-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-147
+44            android:theme="@style/UnityThemeSelector" >
+44-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+45            <intent-filter>
+45-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-8:23
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+46-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+48-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+49            </intent-filter>
+50
+51            <meta-data
+51-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:7-82
+52                android:name="unityplayer.UnityActivity"
+52-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:18-58
+53                android:value="true" />
+53-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:59-79
+54            <meta-data
+54-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-78
+55                android:name="android.notch_support"
+55-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-54
+56                android:value="true" />
+56-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+57        </activity>
+58
+59        <meta-data
+59-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
+60            android:name="unity.splash-mode"
+60-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+61            android:value="0" />
+61-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
+62        <meta-data
+62-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
+63            android:name="unity.splash-enable"
+63-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
+64            android:value="True" />
+64-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
+65        <meta-data
+65-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
+66            android:name="unity.launch-fullscreen"
+66-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
+67            android:value="True" />
+67-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
+68        <meta-data
+68-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-81
+69            android:name="notch.config"
+69-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-43
+70            android:value="portrait|landscape" />
+70-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:44-78
+71        <meta-data
+71-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+72            android:name="unity.auto-report-fully-drawn"
+72-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-60
+73            android:value="true" />
+73-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:61-81
+74        <meta-data
+74-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-77
+75            android:name="com.google.ar.core"
+75-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-49
+76            android:value="optional" />
+76-->C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:50-74
+77    </application>
+78
+79</manifest>

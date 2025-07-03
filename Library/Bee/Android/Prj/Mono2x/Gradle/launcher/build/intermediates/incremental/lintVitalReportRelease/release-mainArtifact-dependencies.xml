@@ -1,0 +1,29 @@
+<dependencies>
+  <compile
+      roots="C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release,__local_aars__:C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,com.google.ar:core:1.36.0@aar,:VuforiaEngine:@aar,C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release,androidx.annotation:annotation:1.3.0@jar">
+    <dependency
+        name="C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name="com.google.ar:core:1.36.0@aar"
+        simpleName="com.google.ar:core"/>
+    <dependency
+        name=":VuforiaEngine:@aar"
+        simpleName=":VuforiaEngine"/>
+    <dependency
+        name="C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+    <dependency
+        name="androidx.annotation:annotation:1.3.0@jar"
+        simpleName="androidx.annotation:annotation"/>
+  </package>
+</dependencies>

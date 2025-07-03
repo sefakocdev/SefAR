@@ -1,0 +1,12 @@
+com.DefaultCompany.SefAR.launcher-pngs-0 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.SefAR.launcher-resValues-1 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.SefAR.launcher-rs-2 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.SefAR.launcher-mergeReleaseResources-3 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.SefAR.launcher-mergeReleaseResources-4 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.SefAR.launcher-merged_res-5 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.SefAR.launcher-main-6 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.SefAR.launcher-release-7 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.SefAR.launcher-packaged_res-8 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.SefAR.launcher-packaged_res-9 C:\UnityProjects\SefAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
+com.DefaultCompany.SefAR.launcher-jetified-core-1.36.0-10 C:\Users\kocse\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\res
+com.DefaultCompany.SefAR.launcher-jetified-VuforiaEngine-11 C:\Users\kocse\.gradle\caches\transforms-3\eb10837eba75ce62ce08bf9f456f9973\transformed\jetified-VuforiaEngine\res
